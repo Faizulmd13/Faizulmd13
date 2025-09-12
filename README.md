@@ -22,9 +22,17 @@ Currently learning **Node.js** and **React**, with the goal of joining a **produ
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mysql,mongodb,python,git,github" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mysql,mongodb,python,git,github,render,vercel" /><br/>
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizulmd13&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Faizulmd13&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -57,14 +65,6 @@ Currently learning **Node.js** and **React**, with the goal of joining a **produ
   *Voice assistant that takes commands like “Play [song]” and streams the top YouTube result.*  
   **Tech:** Python (Speech Recognition, TTS)  
   🔗 [Demo](https://faizulmd13.github.io/speech2web/)
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizulmd13&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Faizulmd13&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
