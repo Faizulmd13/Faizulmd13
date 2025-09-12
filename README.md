@@ -22,7 +22,7 @@ Currently learning **Node.js** and **React**, with the goal of joining a **produ
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mysql,mongodb,python,git,github,render,vercel" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mysql,mongodb,python,git,github,vercel" /><br/>
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
