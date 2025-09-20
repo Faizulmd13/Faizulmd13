@@ -30,8 +30,8 @@ Currently learning **Node.js** and **React**, with the goal of joining a **produ
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faizulmd13&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Faizulmd13&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=Faizulmd13&theme=tokyonight" alt="GitHub Streak" />
+</p> -->
 
 ---
 
